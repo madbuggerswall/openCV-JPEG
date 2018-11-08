@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+project(assignment-1)
+find_package(OpenCV REQUIRED)
+include_directories(${Open_CV_INCLUDE_DIRS})
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(${PROJECT_NAME} "main.cpp" "JPEG.cpp")
+target_link_libraries(${PROJECT_NAME} ${OpenCV_LIBS})
