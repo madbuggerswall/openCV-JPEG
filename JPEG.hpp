@@ -1,3 +1,5 @@
+// Ege Furkan Bilgin S004133 Department of Computer Science
+
 #ifndef JPEG_HPP
 #define JPEG_HPP
 

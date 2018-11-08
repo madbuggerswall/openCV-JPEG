@@ -1,3 +1,5 @@
+// Ege Furkan Bilgin S004133 Department of Computer Science
+
 #include <iostream>
 #include <string>
 #include "opencv2/core.hpp"

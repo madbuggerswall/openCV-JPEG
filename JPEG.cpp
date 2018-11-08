@@ -1,3 +1,5 @@
+// Ege Furkan Bilgin S004133 Department of Computer Science
+
 #include "JPEG.hpp"
 
 JPEG::JPEG(cv::Mat input, cv::Mat quant)

@@ -1,3 +1,5 @@
+// Ege Furkan Bilgin S004133 Department of Computer Science
+
 namespace QTable{
 	float q10[8][8] = {
 		{80, 60, 50, 80, 120, 200, 255, 255},
